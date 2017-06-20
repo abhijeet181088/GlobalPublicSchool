@@ -1,0 +1,2 @@
+# GlobalPublicSchool
+School project
